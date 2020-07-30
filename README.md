@@ -1,7 +1,7 @@
 ### Hi world🌎, I'm Anthony :smirk: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <br>
 <br>
-Welcome to my GitHub! I'm Anthony, a student of Systems and Computer Engineering. I am building a solid foundation in both frontend and backend technologies and languages. You can find me on Facebook <a href = "https://www.facebook.com/anthony.tineocabreja/">Anthony Tineo Cabreja</a> or Instangram <a href = "https://www.instagram.com/anthonytineoc/">anthonytineoc</a>.
+Welcome to my GitHub! I'm Anthony, a student of Systems and Computer Engineering:mortar_board: and an Apprentice Developer :computer:. I am building a solid foundation in both frontend and backend technologies and languages. You can find me on Facebook <a href = "https://www.facebook.com/anthony.tineocabreja/">Anthony Tineo Cabreja</a> or Instangram <a href = "https://www.instagram.com/anthonytineoc/">anthonytineoc</a>.
 
 ### ✔️ I'm currently learning :hourglass:
 - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)                                          
