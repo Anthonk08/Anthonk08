@@ -30,5 +30,6 @@ Welcome to my GitHub! I'm Anthony, a student of Systems and Computer Engineering
 - Facebook: <a href = "https://www.facebook.com/anthony.tineocabreja/">Anthony Tineo Cabreja</a>
 - Website: coming soon
 - Instangram: <a href = "https://www.instagram.com/anthonytineoc/">anthonytineoc</a>
+- Email: anthonytineocabreja@hotmail.com
 <br>
 🚀 From AnthonyTineoC (https://github.com/AnthonyTineoC)
