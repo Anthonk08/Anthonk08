@@ -32,4 +32,4 @@ Welcome to my GitHub! I'm Anthony, a student of Systems and Computer Engineering
 - Instangram: <a href = "https://www.instagram.com/anthonytineoc/">anthonytineoc</a>
 - Email: anthonytineocabreja@hotmail.com
 <br>
-🚀 From AnthonyTineoC (https://github.com/AnthonyTineoC)
+🚀 From AnthonyTineoC (https://github.com/Anthonk08)
