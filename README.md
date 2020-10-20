@@ -8,9 +8,10 @@ Welcome to my GitHub! I'm Anthony, a student of Systems and Computer Engineering
 - ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 - Python 🐍
+- C sharp
 - ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-- Selenium
+- Selenium Automatization Test
 
 ### 💻 :boy: I'm working on :collision: :fire:
 - Building projects in my the job and some own projects.
