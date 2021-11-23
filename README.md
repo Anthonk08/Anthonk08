@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm Anthony, a student of Systems and Computer Engineering
 ### 💻 :boy: I'm working on :collision: :fire:
 - Building projects in my the job and some own projects.
 
-### 💡 :trophy: Goals for 2020 :100:
+### 💡 :trophy: Goals for 2022 :100:
 - Complete my trainings on React Js, React Native, and Nodejs
 - Become skilled in JavaScript
 
